@@ -1,2 +1,2 @@
 # documentationExample
-A repository to hold documentation for S61 Sidecore
+A repository to hold documentation for Sidecore
